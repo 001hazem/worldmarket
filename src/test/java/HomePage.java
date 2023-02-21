@@ -27,7 +27,7 @@ public class HomePage {
         Assert.assertEquals(ActualResult, expectedResult);
     }
 
-    @Test(priority = 2)
+    @Test(priority = 3)
     public void ClickOnCancelButton(){
         WebElement Cancel = FilePOM.Button_Is_Cancel();
         Cancel.click();

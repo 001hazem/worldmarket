@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2c26bde-46a9-4e86-a068-5475a06222c4" name="Changes" comment="world Market">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SetUp.java" afterDir="false" />
+    <list default="true" id="b2c26bde-46a9-4e86-a068-5475a06222c4" name="Changes" comment="update World Market">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FilePOM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FilePOM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SetUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SetUp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Hazem" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/HomePage.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JavaScript Debug.emailable-report.html">
+  <component name="RunManager" selected="TestNG.C:/Users/HazmSerdah/Desktop/Testworldmarket/testng.xml">
     <configuration name="emailable-report.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Testworldmarket/test-output/emailable-report.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -111,11 +118,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.emailable-report.html" />
         <item itemvalue="TestNG.C:/Users/HazmSerdah/Desktop/Testworldmarket/testng.xml" />
-        <item itemvalue="TestNG.SetUp" />
-        <item itemvalue="TestNG.SetUp.setUp" />
         <item itemvalue="TestNG.HomePage" />
+        <item itemvalue="TestNG.SetUp.setUp" />
+        <item itemvalue="TestNG.SetUp" />
+        <item itemvalue="JavaScript Debug.emailable-report.html" />
       </list>
     </recent_temporary>
   </component>
@@ -127,23 +134,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676886626255</updated>
-      <workItem from="1676886626681" duration="16841000" />
+      <workItem from="1676886626681" duration="11731000" />
     </task>
-    <task id="LOCAL-00001" summary="world Market">
-      <created>1676971481457</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1676971481457</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="world Market" />
-    <option name="LAST_COMMIT_MESSAGE" value="world Market" />
+    <MESSAGE value="update World Market" />
+    <option name="LAST_COMMIT_MESSAGE" value="update World Market" />
   </component>
 </project>
